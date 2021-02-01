@@ -1,0 +1,37 @@
+
+Bayes’ theorem is a way to figure out conditional probability. Conditional probability is the 
+probability of an event happening, given that it has some relationship to one or more other 
+events. For example, your probability of getting a parking space is connected to the time of 
+day you park, where you park, and what conventions are going on at any time. Bayes’ 
+theorem is slightly more nuanced. In a nutshell, it gives you the actual probability of an event 
+given information about tests. 
+“Events” Are different from “tests.” For example, there is a test for liver disease, but that’s 
+separate from the event of actually having liver disease.
+Tests are flawed: just because you have a positive test does not mean you actually have the 
+disease. Many tests have a high false positive rate. Rare events tend to have higher false 
+positive rates than more common events. We’re not just talking about medical tests here. For 
+example, spam filtering can have high false positive rates. Bayes’ theorem takes the test 
+results and calculates your real probability that the test has identified the event.
+. In most cases, you can’t just plug numbers into an equation; You have to figure out what 
+your “tests” and “events” are first. For two events, A and B, Bayes’ theorem allows you to 
+figure out p(A|B) (the probability that event A happened, given that test B was positive) from 
+p(B|A) (the probability that test B happened, given that event A happened). It can be a little 
+tricky to wrap your head around as technically you’re working backwards; you may have to 
+switch your tests and events around, which can get confusing. An example should clarify 
+what I mean by “switch the tests and events around.”
+Bayes’ Theorem Example #1
+You might be interested in finding out a patient’s probability of having liver disease if they 
+are an alcoholic. “Being an alcoholic” is the test (kind of like a litmus test) for liver disease.
+A could mean the event “Patient has liver disease.” Past data tells you that 10% of patients 
+entering your clinic have liver disease. P(A) = 0.10.
+B could mean the litmus test that “Patient is an alcoholic.” Five percent of the clinic’s 
+patients are alcoholics. P(B) = 0.05.
+You might also know that among those patients diagnosed with liver disease, 7% are 
+alcoholics. This is your B|A: the probability that a patient is alcoholic, given that they have 
+liver disease, is 7%.
+Bayes’ theorem tells you: 
+P(A|B) = (0.07 * 0.1)/0.05 = 0.14 
+In other words, if the patient is an alcoholic, their chances of having liver disease is 0.14 
+(14%). This is a large increase from the 10% suggested by past data. But it’s still unlikely 
+that any particular patient has liver disease.
+

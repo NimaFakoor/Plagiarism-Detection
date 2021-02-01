@@ -1,0 +1,50 @@
+In probability theory and statistics, Bayes’s theorem (alternatively Bayes’s law or Bayes’s 
+rule) describes the probability of an event, based on prior knowledge of conditions that might 
+be related to the event. For example, if cancer is related to age, then, using Bayes’ theorem, a 
+person's age can be used to more accurately assess the probability that they have cancer than 
+can be done without knowledge of the person’s age. 
+One of the many applications of Bayes’ theorem is Bayesian inference, a particular approach 
+to statistical inference. When applied, the probabilities involved in Bayes’ theorem may have 
+different probability interpretations. With the Bayesian probability interpretation the theorem 
+expresses how a degree of belief, expressed as a probability, should rationally change to 
+account for availability of related evidence. Bayesian inference is fundamental to Bayesian 
+statistics. 
+Bayes’ theorem is named after Reverend Thomas Bayes, who first used conditional 
+probability to provide an algorithm (his Proposition 9) that uses evidence to calculate limits 
+on an unknown parameter, published as An Essay towards solving a Problem in the Doctrine 
+of Chances (1763). In what he called a scholium, Bayes extended his algorithm to any 
+unknown prior cause. Independently of Bayes, Pierre-Simon Laplace in 1774, and later in his 
+1812 Théorie analytique des probabilités, used conditional probability to formulate the 
+relation of an updated posterior probability from a prior probability, given evidence. Sir 
+Harold Jeffreys put Bayes's algorithm and Laplace’s formulation on an axiomatic basis. 
+Jeffreys wrote that Bayes’ theorem “is to the theory of probability what the Pythagorean 
+theorem is to geometry.
+In the frequentist interpretation, probability measures a “proportion of outcomes.” For 
+example, suppose an experiment is performed many times. P(A) is the proportion of 
+outcomes with property A, and P(B) that with property B. P(B?|?A) is the proportion of 
+outcomes with property B out of outcomes with property A, and P(A?|?B) the proportion of 
+those with A out of those with B. 
+The role of Bayes’ theorem is best visualized with tree diagrams, as shown to the right. The 
+two diagrams partition the same outcomes by A and B in opposite orders, to obtain the 
+inverse probabilities. Bayes' theorem serves as the link between these different partitionings. 
+Bayes’ theorem was named after Thomas Bayes (1701–1761), who studied how to compute a 
+distribution for the probability parameter of a binomial distribution (in modern terminology). 
+Bayes’s unpublished manuscript was significantly edited by Richard Price before it was 
+posthumously read at the Royal Society. Price edited Bayes’s major work “An Essay towards 
+solving a Problem in the Doctrine of Chances” (1763), which appeared in Philosophical 
+Transactions, and contains Bayes’ theorem. Price wrote an introduction to the paper which 
+provides some of the philosophical basis of Bayesian statistics. In 1765, he was elected a 
+Fellow of the Royal Society in recognition of his work on the legacy of Bayes.
+The French mathematician Pierre-Simon Laplace reproduced and extended Bayes's results in 
+1774, apparently unaware of Bayes's work. The Bayesian interpretation of probability was 
+developed mainly by Laplace.
+Stephen Stigler used a Bayesian argument to conclude that Bayes’ theorem was discovered 
+by Nicholas Saunderson, a blind English mathematician, some time before Bayes;that 
+interpretation, however, has been disputed. Martyn Hooper  and Sharon McGrayne have 
+argued that Richard Price's contribution was substantial: 
+By modern standards, we should refer to the Bayes–Price rule. Price discovered Bayes’ work, 
+recognized its importance, corrected it, contributed to the article, and found a use for it. The 
+modern convention of employing Bayes’ name alone is unfair but so entrenched that anything 
+else makes little sense.
+
+

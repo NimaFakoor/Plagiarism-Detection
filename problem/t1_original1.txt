@@ -1,0 +1,43 @@
+
+Who was Bayes?
+Thomas Bayes (1701 - 1761) was an English theologian and mathematician that belonged to 
+the Royal Society (the oldest national scientific society in the world and the leading national 
+organisation for the promotion of scientific research in Britain), where other eminent 
+individuals have enrolled, like Newton, Darwin or Faraday. He developed one of the most 
+important theorems of probability, which coined his name: Bayes’ Theorem, or the Theorem 
+of Conditional Probability.
+The Theorem: Conditional Probability
+To explain this theorem, we will use a very simple example. Imagine you have been 
+diagnosed with a very rare disease, which only affects 0.1% of the population; that is, 1 in 
+every 1000 persons.
+The test you have taken to check for the disease correctly classifies 99% of the people who 
+have the disease, incorrectly classifying healthy individuals with a 1% chance.
+I am doomed! Is this disease fatal doctor?
+Is what most people would say. However, after this test, what are the chances we have of 
+actually suffering the disease?
+99% for sure! I better get my stuff in order.
+Upon this thought, Bayes’ mentality ought to prevail, as it is actually very far off from 
+reality. Lets use Bayes’ Theorem to gain some perspective.
+Bayes’ Theorem, or as I have called it before, the Theorem of Conditional Probability, is used 
+for calculating the probability of a hypothesis (H) being true (ie. having the disease) given 
+that a certain event (E) has happened (being diagnosed positive of this disease in the test).
+The intuition behind the theorem
+The intuition behind this famous theorem is that we can never be fully certain of the world, as 
+it is a changing being, change is in the nature of reality. However, something that we can do, 
+which is the fundamental principle behind this theorem, is update and improve our 
+knowledge of reality as we get more and more data or evidence.
+This can be illustrated with a very simple example. Imagine the following situation: you are 
+in the edge square shaped garden, sitting on a chair, looking outside the garden. On the 
+opposite side, lies a servant that throws a initial blue ball inside the square. After that, he 
+keeps throwing other yellow balls inside the square, and telling you where they land 
+relatively to the initial blue ball. As more and more yellow balls land, and you get informed 
+of where they land relative to the first blue ball, you gradually increase your knowledge of 
+where the blue ball might be, leaving out certain parts of the garden: as we get more evidence 
+(more yellow balls) we update our knowledge (the position of the blue ball). In the example 
+above, with only 3 yellow balls thrown, we could already start to build a certain idea that the 
+blue ball lies somewhere within the top left corner of the garden.
+When Bayes’ first formulated this theorem, he didn’t publish it at first, thinking it was 
+nothing extraordinary, and the papers where the theorem was formulated were found after his 
+death. Today Bayes’ theorem is not only one of the bases of modern probability, but a highly 
+used tool in many intelligent systems like spam filters, and many other text and non text 
+related problem solvers.

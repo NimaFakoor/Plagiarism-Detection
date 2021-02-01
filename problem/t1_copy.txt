@@ -1,0 +1,23 @@
+In probability theory and statistics, Bayes’s theorem (alternatively Bayes’s law or Bayes’s 
+rule) describes the probability of an event, based on prior knowledge of conditions that might 
+be related to the event. For example, if cancer is related to age, then, using Bayes’ theorem, a 
+person's age can be used to more accurately assess the probability that they have cancer than 
+can be done without knowledge of the person’s age. 
+Bayes’ theorem is named after Reverend Thomas Bayes, who first used conditional 
+probability to provide an algorithm (his Proposition 9) that uses evidence to calculate limits 
+on an unknown parameter, published as An Essay towards solving a Problem in the Doctrine 
+of Chances (1763).
+According the frequentist interpretation, probability measures a “proportion of results.” For 
+instance, suppose an experiment is performed many times. P(A) is the proportion of 
+results with property A, and P(B) that with property B. P(B?|?A) is the proportion of 
+results with property B out of outcomes with property A, and P(A?|?B) the proportion of 
+those with A out of those with B. Bayes' theorem serves as the link between these different partitionings. 
+Bayes’ theorem was named after Thomas Bayes, who studied how to compute a 
+distribution for the probability parameter of a binomial distribution. 
+Bayes’s unpublished manuscript was repeatedly edited by other scientists specially Price.
+By modern standards, we should refer to the Bayes–Price rule. Price discovered Bayes’ work, 
+recognized its importance, corrected it, contributed to the article, and found a use for it. The 
+modern convention of employing Bayes’ name alone is unfair but so entrenched that anything 
+else makes little sense.
+
+
